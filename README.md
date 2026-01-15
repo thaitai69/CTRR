@@ -1,1 +1,1 @@
-# C-u-tr-c-r-i-r-c
+** Cấu trúc rời rạc
